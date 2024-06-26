@@ -1,8 +1,7 @@
 
 ### Live Demo
 
-Check out the live demo [here](https://your-live-demo-url.com).
-
+Check out the live demo [here](https://nexflixbyabhinandh.netlify.app/).
 
 # Getting Started with Create React App
 
